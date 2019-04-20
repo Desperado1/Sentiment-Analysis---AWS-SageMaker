@@ -7,7 +7,6 @@
 ## Project Overview
 In this project, I used SageMaker to construct a complete project from end to end. The goal of this project is to have a simple web page which a user can use to enter a movie review. The web page will then send the review off to my deployed model which will predict the sentiment of the entered review.
 
-![Negative Review][image1]
 
 ## Project Instruction
 
@@ -15,7 +14,7 @@ In this project, I used SageMaker to construct a complete project from end to en
 
 1. Clone the repository and navigate to the downloaded folder.
 	```
-		git clone https://github.com/choonghee-lee/Deploying-a-Sentiment-Analysis-Model
+		git clone https://github.com/Desperado1/Deploying-a-Sentiment-Analysis-Model
 	```
 2. Open the `SageMaker Project.ipynb` file. Of course, you can find HTML version of the file.
 	```
